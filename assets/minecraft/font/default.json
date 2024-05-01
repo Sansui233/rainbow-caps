@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ysbb.png",
+            "height": 18,
+            "ascent": 9,
+            "chars": ["\u35ca"]
+        }
+    ]    
+}
