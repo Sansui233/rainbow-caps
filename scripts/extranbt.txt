@@ -1,0 +1,25 @@
+AttributeModifiers: [
+    {
+        AttributeName:"generic.armor",
+        Name:"generic.armor",
+        Amount:3,Operation:0,
+        UUID:[I;-1587806142,-2049556106,-1919840929,1265487862],
+        Slot:"head"
+    },
+    {
+        AttributeName:"generic.armor_toughness",
+        Name:"generic.armor_toughness",
+        Amount:3,
+        Operation:0,
+        UUID:[I;620149841,-311672275,-1654097977,173149572],
+        Slot:"head"
+    },
+    {
+        AttributeName:"generic.knockback_resistance",
+        Name:"generic.knockback_resistance",
+        Amount:1,
+        Operation:0,
+        UUID:[I;1775763236,-1387379866,-1566939261,-930137005],
+        Slot:"head"
+    }
+]

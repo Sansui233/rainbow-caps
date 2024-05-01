@@ -1,0 +1,66 @@
+# -*- coding: utf-8 -*-
+import json
+
+
+def genRecipeItem(item: dict):
+    # 有 buy buyB(optinal) sell 三个字段
+
+    recipesobj = "{rewardExp:0b, maxUses:1000,"
+
+    recipesobj += 'buy:{{id:"{}",Count:{}}}'.format(
+        item["buy"]["id"], item["buy"]["Count"]
+    )
+    if "buyB" in item:
+        recipesobj += ',buyB:{{id:"{}",Count:{}}}'.format(
+            item["buyB"]["id"], item["buyB"]["Count"]
+        )
+    recipesobj += (
+        ",sell:"
+        + "{"
+        + 'id:"{}"'.format(item["sell"]["id"])
+        + ",Count:{}".format(item["sell"]["Count"])
+        + ",tag:"
+        + "{"
+        + "CustomModelData:{}".format(item["sell"]["tag"]["CustomModelData"])
+        + ",display:"
+        + "{"
+        + "Name:'{}'".format(
+            json.dumps(item["sell"]["tag"]["display"]["Name"], ensure_ascii=False)
+        )
+        + "}"
+        + ",{}".format(extranbt_kv)
+        + "}"
+        + "}"
+    )
+
+    recipesobj = recipesobj + "}"
+    return recipesobj
+
+
+with open("scripts/list.json", "r+", encoding="utf-8") as f:
+    with open("scripts/extranbt.txt", "r+", encoding="utf-8") as nbtfile:
+        # 处理盔甲值的字符串
+        extranbt_kv = nbtfile.readlines()
+        for i, line in enumerate(extranbt_kv):
+            extranbt_kv[i] = line.strip()
+        extranbt_kv = "".join(extranbt_kv)  # 结尾没有逗号
+
+        # 处理交易数据
+        data = json.load(f)
+        itemLists = [genRecipeItem(item) for item in data["Recipes"]]
+        recipesobj = "{" + "Recipes:[{}]".format(",".join(itemLists)) + "}"
+
+        nbtobj = (
+            "{NoGravity:1b,"
+            + "Silent:1b,Invulnerable:1b,"
+            + "PersistenceRequired:1b,"
+            + "NoAI:1b,"
+            + "Willing:1b,"
+            + 'Tags:["block_trader","carved_pumpkin"],'
+            + 'ArmorItems:[{},{},{},{id:"minecraft:carved_pumpkin",Count:1b,tag:{CustomModelData:100}}],'
+            + "Offers:{}".format(recipesobj)
+            + "}"
+        )
+        command = "summon minecraft:wandering_trader ~0.5 ~-1 ~0.5 {}".format(nbtobj)
+
+        print(command)
