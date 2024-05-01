@@ -25,13 +25,19 @@ minecraft:carved_pumpkin,1,minecraft:emerald,16,minecraft:carved_pumpkin,屠夫�
 minecraft:carved_pumpkin,1,minecraft:emerald,16,minecraft:carved_pumpkin,纺织帽,124,false
 minecraft:carved_pumpkin,1,minecraft:emerald,16,minecraft:carved_pumpkin,图管帽,125,false
 minecraft:carved_pumpkin,1,minecraft:purple_dye,1,minecraft:carved_pumpkin,厉害的紫色魔法帽子,126,false
-minecraft:carved_pumpkin,1,minecraft:yellow_dye,1,minecraft:carved_pumpkin,厉害的黄色魔法帽子,127,false
-minecraft:carved_pumpkin,1,minecraft:lime_dye,1,minecraft:carved_pumpkin,厉害的绿色魔法帽子,128,false
-minecraft:carved_pumpkin,1,minecraft:red_dye,1,minecraft:carved_pumpkin,厉害的红色魔法帽子,129,false
-minecraft:carved_pumpkin,1,minecraft:feather,8,minecraft:carved_pumpkin,边翘羽毛帽,130,false
-minecraft:carved_pumpkin,1,minecraft:diamond,27,minecraft:carved_pumpkin,洞穴探险家之帽,131,false
-minecraft:carved_pumpkin,1,minecraft:diamond,1,minecraft:carved_pumpkin,樱花点点高丘帽,132,false
-minecraft:carved_pumpkin,1,minecraft:clock,3,minecraft:carved_pumpkin,梦里啥都有睡吧帽,133,false
+minecraft:carved_pumpkin,1,minecraft:wheat,1,minecraft:carved_pumpkin,草帽,20001,false
+minecraft:carved_pumpkin,1,minecraft:gold_nugget,1,minecraft:carved_pumpkin,南烛的女巫帽,20003,false
+minecraft:carved_pumpkin,1,minecraft:gold_nugget,1,minecraft:carved_pumpkin,白色女巫帽,20004,false
+minecraft:carved_pumpkin,1,minecraft:iron_nugget,1,minecraft:carved_pumpkin,矿工帽,20005,false
+minecraft:carved_pumpkin,1,minecraft:iron_nugget,1,minecraft:carved_pumpkin,红色矿工帽,20006,false
+minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,南烛,20007,false
+minecraft:carved_pumpkin,1,minecraft:tropical_fish,1,minecraft:carved_pumpkin,粉色蝾螈帽,20008,false
+minecraft:carved_pumpkin,1,minecraft:tropical_fish,1,minecraft:carved_pumpkin,黄色蝾螈帽,20009,false
+minecraft:carved_pumpkin,1,minecraft:tropical_fish,1,minecraft:carved_pumpkin,白色蝾螈帽,20010,false
+minecraft:carved_pumpkin,1,minecraft:tropical_fish,1,minecraft:carved_pumpkin,蓝色蝾螈帽,20011,false
+minecraft:carved_pumpkin,1,minecraft:tropical_fish,1,minecraft:carved_pumpkin,棕色蝾螈帽,20012,false
+minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,hope_99,20013,false
+minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,nekkiowo,20014,false
 minecraft:diamond_helmet,1,minecraft:cod,8,minecraft:carved_pumpkin,无敌白色六角小龙趴,101,true
 minecraft:diamond_helmet,1,minecraft:cod,8,minecraft:carved_pumpkin,无敌紫色六角小龙趴,102,true
 minecraft:diamond_helmet,1,minecraft:cod,8,minecraft:carved_pumpkin,无敌粉色六角小龙趴,103,true
@@ -58,3 +64,16 @@ minecraft:diamond_helmet,1,minecraft:emerald,16,minecraft:carved_pumpkin,屠夫�
 minecraft:diamond_helmet,1,minecraft:emerald,16,minecraft:carved_pumpkin,纺织帽,124,true
 minecraft:diamond_helmet,1,minecraft:emerald,16,minecraft:carved_pumpkin,图管帽,125,true
 minecraft:diamond_helmet,1,minecraft:purple_dye,1,minecraft:carved_pumpkin,厉害的紫色魔法帽子,126,true
+minecraft:diamond_helmet,1,minecraft:wheat,1,minecraft:carved_pumpkin,草帽,20001,true
+minecraft:diamond_helmet,1,minecraft:gold_nugget,1,minecraft:carved_pumpkin,南烛的女巫帽,20003,true
+minecraft:diamond_helmet,1,minecraft:gold_nugget,1,minecraft:carved_pumpkin,白色女巫帽,20004,true
+minecraft:diamond_helmet,1,minecraft:iron_nugget,1,minecraft:carved_pumpkin,矿工帽,20005,true
+minecraft:diamond_helmet,1,minecraft:iron_nugget,1,minecraft:carved_pumpkin,红色矿工帽,20006,true
+minecraft:diamond_helmet,1,minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,南烛,20007,true
+minecraft:diamond_helmet,1,minecraft:tropical_fish,1,minecraft:carved_pumpkin,粉色蝾螈帽,20008,true
+minecraft:diamond_helmet,1,minecraft:tropical_fish,1,minecraft:carved_pumpkin,黄色蝾螈帽,20009,true
+minecraft:diamond_helmet,1,minecraft:tropical_fish,1,minecraft:carved_pumpkin,白色蝾螈帽,20010,true
+minecraft:diamond_helmet,1,minecraft:tropical_fish,1,minecraft:carved_pumpkin,蓝色蝾螈帽,20011,true
+minecraft:diamond_helmet,1,minecraft:tropical_fish,1,minecraft:carved_pumpkin,棕色蝾螈帽,20012,true
+minecraft:diamond_helmet,1,minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,hope_99,20013,true
+minecraft:diamond_helmet,1,minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,nekkiowo,20014,true
