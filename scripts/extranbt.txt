@@ -9,7 +9,7 @@ AttributeModifiers: [
     {
         AttributeName:"generic.armor_toughness",
         Name:"generic.armor_toughness",
-        Amount:3,
+        Amount:2,
         Operation:0,
         UUID:[I;620149841,-311672275,-1654097977,173149572],
         Slot:"head"

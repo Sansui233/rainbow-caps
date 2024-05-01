@@ -92,7 +92,7 @@ with open("scripts/list.json", "r+", encoding="utf-8") as f:
             + "Offers:{}".format(recipesobj)
             + "}"
         )
-        command = "summon minecraft:wandering_trader ~0.5 ~-1 ~0.5 {}".format(nbtobj)
+        command = "summon minecraft:wandering_trader ~0.5 ~-1 ~0.5 {} \n".format(nbtobj)
 
         with open("scripts/conmmand.txt", "w", encoding="utf-8") as output:
             output.write(command)
