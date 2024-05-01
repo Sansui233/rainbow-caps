@@ -2,7 +2,7 @@
 import json
 
 
-def genRecipeItem(item: dict):
+def genRecipeItem(item: dict, extranbt_kv: str):
     # 有 buy buyB(optinal) sell 三个字段
 
     recipesobj = "{rewardExp:0b, maxUses:1000,"
@@ -14,6 +14,9 @@ def genRecipeItem(item: dict):
         recipesobj += ',buyB:{{id:"{}",Count:{}}}'.format(
             item["buyB"]["id"], item["buyB"]["Count"]
         )
+    extranbt_kv = (
+        ",{}".format(extranbt_kv) if "AttributeModifiers" in item["sell"]["tag"] else ""
+    )
     recipesobj += (
         ",sell:"
         + "{"
@@ -28,7 +31,7 @@ def genRecipeItem(item: dict):
             json.dumps(item["sell"]["tag"]["display"]["Name"], ensure_ascii=False)
         )
         + "}"
-        + ",{}".format(extranbt_kv)
+        + extranbt_kv
         + "}"
         + "}"
     )
@@ -47,7 +50,7 @@ with open("scripts/list.json", "r+", encoding="utf-8") as f:
 
         # 处理交易数据
         data = json.load(f)
-        itemLists = [genRecipeItem(item) for item in data["Recipes"]]
+        itemLists = [genRecipeItem(item, extranbt_kv) for item in data["Recipes"]]
         recipesobj = "{" + "Recipes:[{}]".format(",".join(itemLists)) + "}"
 
         nbtobj = (
