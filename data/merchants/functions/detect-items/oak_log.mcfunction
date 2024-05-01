@@ -1,0 +1,1 @@
+execute as @s at @s if block ~ ~-0.3 ~ carved_pumpkin unless entity @e[type=wandering_trader,tag=crafting_table,tag=block_trader,distance=..1.3] align xyz run function merchants:summon/oak_log

@@ -1,6 +1,5 @@
 {
 	"values": [
-		"mzxf:main",
-		"mzxf:traded"
+		"merchants:main"
 	]
 }
