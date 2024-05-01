@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/glass",
+		"log": "block/glass"
+	},
+	"display": {
+		"head": {
+			"translation": [0, 10.5, 0]
+		}
+	}
+}

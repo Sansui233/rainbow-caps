@@ -5,7 +5,233 @@
             "file": "minecraft:font/ysbb.png",
             "height": 18,
             "ascent": 9,
-            "chars": ["\u35ca"]
+            "chars": [
+                "\u35ca"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/nan2uu.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "\uD83C\uDFA9\uD83D\uDC5E\uD83D\uDC56\uD83D\uDC80\uD83C\uDF1F\uD83D\uDD1D\uD83D\uDC62\uD83D\uDD17\uD83D\uDCA7\uD83D\uDC95\uD83D\uDCAA\uD83D\uDD0B\u2764\ud83d\udd25"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/nan2uu_x.png",
+            "ascent": 7,
+            "chars": [
+                "\uD83D\uDEE1\uD83D\uDC89\uD83D\uDD31\ud83d\udde1\ud83c\udff9\ud83c\udfa3\u26cf\u23f3\u263d\u26e8\u2620\u2602\uD83D\uDCAD"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/nan2uu_d.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\ud83c\udf40"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/nan2uu_sw.png",
+            "height": 9,
+            "ascent": 7.5,
+            "chars": [
+                "\ud83e\udd69\ud83e\udd53\ud83e\udd6b\ud83c\udf62\ud83c\udf61"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/end_chest_gui.png",
+            "height": 72,
+            "ascent": 13,
+            "chars": [
+                "\ud83d\udcd8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/suojin.png",
+            "height": -10,
+            "ascent": -77777,
+            "chars": [
+                "\uf808"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxx_jiaju.png",
+            "height": 92,
+            "ascent": 20,
+            "chars": [
+                "\ud83d\udcc7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_tsmp_001.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue2ff"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_001.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue300"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_002.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue301"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_003.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue302"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_004.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue303"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_005.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue304"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_006.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue305"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_007.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue306"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_tsmp_002.png",
+            "height": 230,
+            "ascent": 90,
+            "chars": [
+                "\ue307"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_008.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue308"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_009.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue309"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_010.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue30a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_011.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue30b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_012.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue30c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_tsmp_003.png",
+            "height": 230,
+            "ascent": 90,
+            "chars": [
+                "\ue30d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_013.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue30e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_ts_014.png",
+            "height": 150,
+            "ascent": 90,
+            "chars": [
+                "\ue30f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chxs_keranse.png",
+            "height": 32,
+            "ascent": 19,
+            "chars": [
+                "\ue310"
+            ]
         }
-    ]    
+    ]
 }

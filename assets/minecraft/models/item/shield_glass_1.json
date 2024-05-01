@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/shield_glass_0",
+	"textures": {
+		"particle": "block/dark_oak_planks"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, 135, 0],
+			"translation": [-1.99, -7.75, 1.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, 135, 0],
+			"translation": [-1.99, -7.75, 1.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, -5],
+			"translation": [-3.75, -11, 6.5],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, -5],
+			"translation": [-3.75, -11, 6.5],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"gui": {
+			"rotation": [15, -25, -5],
+			"translation": [2, -0.75, 0],
+			"scale": [0.65, 0.65, 0.65]
+		}
+	}
+}

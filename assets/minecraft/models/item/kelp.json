@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/kelp"
+  },
+  "overrides" :[
+    {"predicate":{"custom_model_data":10000},"model":"item/chxx_fengmiping_test"},
+    {"predicate":{"custom_model_data":10001},"model":"item/chxs_jj_denglong"},
+    {"predicate":{"custom_model_data":10002},"model":"item/chxs_jj_denglong1"},
+    {"predicate":{"custom_model_data":10003},"model":"item/chxs_jj_denglong2"},
+    {"predicate":{"custom_model_data":10004},"model":"item/chxs_jj_denglong3"},
+    {"predicate":{"custom_model_data":10005},"model":"item/chxs_jj_denglong4"},
+    {"predicate":{"custom_model_data":10006},"model":"item/chxs_jj_denglong5"},
+    {"predicate":{"custom_model_data":10007},"model":"item/chxs_jj_denglong6"},
+    {"predicate":{"custom_model_data":10008},"model":"item/chxs_jj_denglong7"},
+    {"predicate":{"custom_model_data":10009},"model":"item/chxs_jj_denglong8"},
+    {"predicate":{"custom_model_data":10010},"model":"item/chxs_jj_denglong9"},
+    {"predicate":{"custom_model_data":10011},"model":"item/chxs_jj_denglong10"},
+    {"predicate":{"custom_model_data":10012},"model":"item/chxs_jj_zhulianzi"},
+    {"predicate":{"custom_model_data":80001},"model":"item/chxs_jj_denglong_da_lp1"},
+    {"predicate":{"custom_model_data":80002},"model":"item/chxs_jj_denglong_da_lp2"},
+    {"predicate":{"custom_model_data":80003},"model":"item/chxs_jj_denglong_da_lp3"},
+    {"predicate":{"custom_model_data":80004},"model":"item/chxs_jj_denglong_da_lp4"},
+    {"predicate":{"custom_model_data":80005},"model":"item/chxs_jj_denglong_xiao_lp1"},
+    {"predicate":{"custom_model_data":80006},"model":"item/chxs_jj_denglong_xiao_lp2"},
+    {"predicate":{"custom_model_data":80007},"model":"item/chxs_jj_denglong_xiao_lp3"},
+    {"predicate":{"custom_model_data":80008},"model":"item/chxs_jj_denglong_xiao_lp4"},
+    {"predicate":{"custom_model_data":80009},"model":"item/chxs_jj_denglong_da_sp3"},
+    {"predicate":{"custom_model_data":80010},"model":"item/chxs_jj_denglong_da_sp2"},
+    {"predicate":{"custom_model_data":80011},"model":"item/chxs_jj_denglong_xiao_sp3"},
+    {"predicate":{"custom_model_data":80012},"model":"item/chxs_jj_denglong_xiao_sp2"}
+	]
+}

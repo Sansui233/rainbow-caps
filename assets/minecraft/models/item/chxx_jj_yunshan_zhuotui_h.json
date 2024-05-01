@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_all",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/jj_yunshan_zhuotui",
+		"particle": "item/jj_yunshan_zhuotui"
+	},
+	"elements": [
+		{
+			"from": [2, 10, 0],
+			"to": [4, 14, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 20, 19]},
+			"faces": {
+				"north": {"uv": [0, 5.5, 0.5, 6.5], "texture": "#0"},
+				"east": {"uv": [3, 5.5, 0, 6.5], "texture": "#0"},
+				"south": {"uv": [0, 5.5, 0.5, 6.5], "texture": "#0"},
+				"west": {"uv": [3, 5.5, 0, 6.5], "texture": "#0"},
+				"up": {"uv": [3, 5.5, 0, 6], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [3, 6.5, 0, 6], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
+		}
+	}
+}

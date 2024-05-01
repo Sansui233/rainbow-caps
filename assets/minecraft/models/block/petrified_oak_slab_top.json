@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/slab_top_nz",
+	"textures": {
+		"0": "block/glass",
+		"particle": "block/glass"
+	},
+	"elements": [
+		{
+			"from": [7.75, 12, 8.25],
+			"to": [7.75, 12, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 19, 16]},
+			"faces": {
+				"north": {"uv": [1, 0, 0, 1], "texture": "#0"},
+				"east": {"uv": [1, 0, 0, 1], "texture": "#0"},
+				"south": {"uv": [1, 0, 0, 1], "texture": "#0"},
+				"west": {"uv": [1, 0, 0, 1], "texture": "#0"},
+				"up": {"uv": [1, 0, 0, 1], "texture": "#0"},
+				"down": {"uv": [1, 0, 0, 1], "texture": "#0"}
+			}
+		}
+	]
+}

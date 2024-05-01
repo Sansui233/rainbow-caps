@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/bstt",
+	"textures": {
+	  "bsttnan2uu": "minecraft:item/1pf/054"
+	}
+  }

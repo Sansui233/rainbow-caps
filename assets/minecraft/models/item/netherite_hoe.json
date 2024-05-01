@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_hoe"
+  },
+  "overrides" :[
+    {"predicate":{"custom_model_data":10000},"model":"item/netherite_old_hoe"},
+		{"predicate":{"custom_model_data":10001},"model":"item/zishuijing_hoe"},
+    {"predicate":{"custom_model_data":10009},"model":"item/tong_hoe"},
+    {"predicate":{"custom_model_data":10010},"model":"item/lieyan_hoe"},
+    {"predicate":{"custom_model_data":10011},"model":"item/lanbing_hoe"},
+    {"predicate":{"custom_model_data":10012},"model":"item/haijing_hoe"},
+    {"predicate":{"custom_model_data":10013},"model":"item/moka_hoe"}
+	]
+}

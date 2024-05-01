@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+  "overrides" :[
+    {"predicate":{"custom_model_data":10000},"model":"item/chxx_fengmiping_test"},
+    {"predicate":{"custom_model_data":10001},"model":"item/chxs_jj_denglong"},
+    {"predicate":{"custom_model_data":10002},"model":"item/chxs_jj_denglong1"},
+    {"predicate":{"custom_model_data":10003},"model":"item/chxs_jj_denglong2"},
+    {"predicate":{"custom_model_data":10004},"model":"item/chxs_jj_denglong3"},
+    {"predicate":{"custom_model_data":10005},"model":"item/chxs_jj_denglong4"},
+    {"predicate":{"custom_model_data":10006},"model":"item/chxs_jj_denglong5"},
+    {"predicate":{"custom_model_data":10007},"model":"item/chxs_jj_denglong6"},
+    {"predicate":{"custom_model_data":10008},"model":"item/chxs_jj_denglong7"},
+    {"predicate":{"custom_model_data":10009},"model":"item/chxs_jj_denglong8"},
+    {"predicate":{"custom_model_data":10010},"model":"item/chxs_jj_denglong9"},
+    {"predicate":{"custom_model_data":10011},"model":"item/chxs_jj_zheyangpeng"},
+    {"predicate":{"custom_model_data":10012},"model":"item/chxs_jj_zheyangpeng_zuo"},
+    {"predicate":{"custom_model_data":10013},"model":"item/chxs_jj_zheyangpeng_zhong"},
+    {"predicate":{"custom_model_data":10014},"model":"item/chxs_jj_zheyangpeng_you"},
+    {"predicate":{"custom_model_data":10015},"model":"item/chxs_jj_zheyangpeng_xia"},
+    {"predicate":{"custom_model_data":10016},"model":"item/chxs_jj_zheyangpeng_zuo_xia"},
+    {"predicate":{"custom_model_data":10017},"model":"item/chxs_jj_zheyangpeng_zhong_xia"},
+    {"predicate":{"custom_model_data":10018},"model":"item/chxs_jj_zheyangpeng_you_xia"},
+    {"predicate":{"custom_model_data":10019},"model":"item/chxs_jj_shafa"},
+    {"predicate":{"custom_model_data":10020},"model":"item/chxs_jj_shafa_zuo"},
+    {"predicate":{"custom_model_data":10021},"model":"item/chxs_jj_shafa_zhong"},
+    {"predicate":{"custom_model_data":10022},"model":"item/chxs_jj_shafa_you"},
+    {"predicate":{"custom_model_data":10023},"model":"item/chxs_jj_daxiongwawa"},
+    {"predicate":{"custom_model_data":10024},"model":"item/chxs_jj_chuanglian"},
+    {"predicate":{"custom_model_data":10025},"model":"item/chxs_jj_zheyangpeng_da"},
+    {"predicate":{"custom_model_data":10026},"model":"item/chxs_jj_yunshan_liantizhuo_2x1"},
+    {"predicate":{"custom_model_data":10027},"model":"item/chxs_jj_yunshan_liantizhuo_2x1_zhuobu"},
+    {"predicate":{"custom_model_data":10028},"model":"item/chxs_jj_yunshan_liantizhuo_2x1_zhuobu1"},
+    {"predicate":{"custom_model_data":10029},"model":"item/chxs_jj_zheyangshan_tiaowen_3x3_dapei"},
+    {"predicate":{"custom_model_data":10030},"model":"item/chxs_jj_zheyangshan_tiaowen_3x3"}
+	]
+}

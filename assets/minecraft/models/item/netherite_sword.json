@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides" :[
+    {"predicate":{"custom_model_data":10000},"model":"item/netherite_old_sword"},
+		{"predicate":{"custom_model_data":10001},"model":"item/zishuijing_sword"},
+    {"predicate":{"custom_model_data":10002},"model":"item/zhong_sword"},
+    {"predicate":{"custom_model_data":10003},"model":"item/yumi_sword"},
+    {"predicate":{"custom_model_data":10004},"model":"item/xigua_sword"},
+    {"predicate":{"custom_model_data":10005},"model":"item/tangguo_hong_sword"},
+    {"predicate":{"custom_model_data":10006},"model":"item/tangguo_cheng_sword"},
+    {"predicate":{"custom_model_data":10007},"model":"item/tangguo_zi_sword"},
+    {"predicate":{"custom_model_data":10008},"model":"item/tangguo_lan_sword"},
+    {"predicate":{"custom_model_data":10009},"model":"item/tong_sword"},
+    {"predicate":{"custom_model_data":10010},"model":"item/lieyan_sword"},
+    {"predicate":{"custom_model_data":10011},"model":"item/lanbing_sword"},
+    {"predicate":{"custom_model_data":10012},"model":"item/haijing_sword"},
+    {"predicate":{"custom_model_data":10013},"model":"item/moka_sword"}
+  ]
+}

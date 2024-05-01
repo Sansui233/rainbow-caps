@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/golden_apple"
+  },
+  "overrides" :[
+    {"predicate":{"custom_model_data":10000},"model":"item/chxx_fumojinpingguo"},
+    {"predicate":{"custom_model_data":10001},"model":"item/chxx_fumojinpingguo1"},
+    {"predicate":{"custom_model_data":10002},"model":"item/chxx_fumojinpingguokuang"},
+    {"predicate":{"custom_model_data":10003},"model":"item/chxx_fumojinpingguolanzi"}
+	]
+}

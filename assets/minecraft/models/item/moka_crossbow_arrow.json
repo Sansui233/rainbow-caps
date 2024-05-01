@@ -1,0 +1,6 @@
+{
+    "parent": "item/crossbow",
+    "textures": {
+        "layer0": "item/moka_crossbow_arrow"
+    }
+}

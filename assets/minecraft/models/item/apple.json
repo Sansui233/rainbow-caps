@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/apple"
+  },
+  "overrides" :[
+    {"predicate":{"custom_model_data":10000},"model":"item/chxx_pingguo"},
+    {"predicate":{"custom_model_data":10001},"model":"item/chxx_pingguo1"},
+    {"predicate":{"custom_model_data":10002},"model":"item/chxx_qingpingguo"},
+    {"predicate":{"custom_model_data":10003},"model":"item/chxx_qingpingguo1"},
+    {"predicate":{"custom_model_data":10004},"model":"item/chxx_pingguokuang"},
+    {"predicate":{"custom_model_data":10005},"model":"item/chxx_pingguolanzi"},
+    {"predicate":{"custom_model_data":10006},"model":"item/chxx_qingpingguokuang"},
+    {"predicate":{"custom_model_data":10007},"model":"item/chxx_qingpingguolanzi"},
+    {"predicate":{"custom_model_data":10008},"model":"item/chxx_huangpingguo"},
+    {"predicate":{"custom_model_data":10009},"model":"item/chxx_huangpingguo1"},
+    {"predicate":{"custom_model_data":10010},"model":"item/chxx_zihongpingguo"},
+    {"predicate":{"custom_model_data":10011},"model":"item/chxx_zihongpingguo1"},
+    {"predicate":{"custom_model_data":10012},"model":"item/chxx_huangpingguokuang"},
+    {"predicate":{"custom_model_data":10013},"model":"item/chxx_huangpingguolanzi"},
+    {"predicate":{"custom_model_data":10014},"model":"item/chxx_zihongpingguokuang"},
+    {"predicate":{"custom_model_data":10015},"model":"item/chxx_zihongpingguolanzi"}
+	]
+}

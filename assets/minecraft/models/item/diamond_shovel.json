@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_shovel"
+  },
+  "overrides" :[
+		{"predicate":{"custom_model_data":10001},"model":"item/zishuijing_shovel"},
+    {"predicate":{"custom_model_data":10009},"model":"item/tong_shovel"},
+    {"predicate":{"custom_model_data":10010},"model":"item/lieyan_shovel"},
+    {"predicate":{"custom_model_data":10011},"model":"item/lanbing_shovel"},
+    {"predicate":{"custom_model_data":10012},"model":"item/haijing_shovel"},
+    {"predicate":{"custom_model_data":10013},"model":"item/moka_shovel"}
+	]
+}

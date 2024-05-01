@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bowl"
+  },
+  "overrides" :[
+    {"predicate":{"custom_model_data":10002},"model":"item/chxx_jj_yunshan_chuangtou"},
+    {"predicate":{"custom_model_data":10003},"model":"item/chxx_jj_xiangmu_chuangtou"},
+    {"predicate":{"custom_model_data":20000},"model":"item/chxx_jj_yunshan_zhuotui"},
+    {"predicate":{"custom_model_data":20001},"model":"item/chxx_jj_yunshan_zhuotui_h"},
+    {"predicate":{"custom_model_data":20002},"model":"item/chxx_jj_yunshan_zhuotui_d"},
+    {"predicate":{"custom_model_data":20003},"model":"item/chxx_jj_yunshan_zhuotui_x"},
+    {"predicate":{"custom_model_data":20004},"model":"item/chxx_jj_yunshan_bitai"},
+    {"predicate":{"custom_model_data":30000},"model":"item/chxx_jj_yunshan_yizi"},
+    {"predicate":{"custom_model_data":30001},"model":"item/chxx_jj_yunshan_yizi_zuo"},
+    {"predicate":{"custom_model_data":30002},"model":"item/chxx_jj_yunshan_yizi_you"},
+    {"predicate":{"custom_model_data":40000},"model":"item/chxx_jj_yunshan_zhuozi_d"},
+    {"predicate":{"custom_model_data":40001},"model":"item/chxx_jj_yunshan_sanjiaoti"},
+    {"predicate":{"custom_model_data":40002},"model":"item/chxx_jj_yunshan_zhuozi_z"},
+    {"predicate":{"custom_model_data":40003},"model":"item/chxx_jj_yunshan_zhuozi_x"},
+    {"predicate":{"custom_model_data":40004},"model":"item/chxx_jj_yunshan_zhuozi_xx"},
+    {"predicate":{"custom_model_data":80001},"model":"item/chxs_jj_denglong_da_lpx1"},
+    {"predicate":{"custom_model_data":80002},"model":"item/chxs_jj_denglong_da_lpx2"},
+    {"predicate":{"custom_model_data":80003},"model":"item/chxs_jj_denglong_da_lpx3"},
+    {"predicate":{"custom_model_data":80004},"model":"item/chxs_jj_denglong_da_lpx4"},
+    {"predicate":{"custom_model_data":80005},"model":"item/chxs_jj_denglong_xiao_lpx1"},
+    {"predicate":{"custom_model_data":80006},"model":"item/chxs_jj_denglong_xiao_lpx2"},
+    {"predicate":{"custom_model_data":80007},"model":"item/chxs_jj_denglong_xiao_lpx3"},
+    {"predicate":{"custom_model_data":80008},"model":"item/chxs_jj_denglong_xiao_lpx4"},
+    {"predicate":{"custom_model_data":80009},"model":"item/chxs_jj_denglong_da_spx3"},
+    {"predicate":{"custom_model_data":80010},"model":"item/chxs_jj_denglong_da_spx2"},
+    {"predicate":{"custom_model_data":80011},"model":"item/chxs_jj_denglong_xiao_spx3"},
+    {"predicate":{"custom_model_data":80012},"model":"item/chxs_jj_denglong_xiao_spx2"},
+    {"predicate":{"custom_model_data":80013},"model":"item/chxs_jj_denglong_da_1"},
+    {"predicate":{"custom_model_data":80014},"model":"item/chxs_jj_denglong_da_0"},
+    {"predicate":{"custom_model_data":80015},"model":"item/chxs_jj_denglong_xiao_1"},
+    {"predicate":{"custom_model_data":80016},"model":"item/chxs_jj_denglong_xiao_0"},
+    {"predicate":{"custom_model_data":80017},"model":"item/chxs_jj_denglong_xiao_bai_1"},
+    {"predicate":{"custom_model_data":80018},"model":"item/chxs_jj_denglong_xiao_bai_0"}
+  ]
+}
