@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import csv
 import json
 
 
@@ -40,6 +41,33 @@ def genRecipeItem(item: dict, extranbt_kv: str):
     return recipesobj
 
 
+with open("scripts/trades.csv", "r+", encoding="utf-8") as csvfile:
+    reader = csv.reader(csvfile, delimiter=",")
+    next(reader, None)  # skip the headers
+    new_objects: list[dict] = []
+    for row in reader:
+        newobject: dict = {
+            "buy": {"id": row[0], "Count": row[1] + "b"},
+            "buyB": {"id": row[2], "Count": row[3] + "b"},
+            "sell": {
+                "id": row[4],
+                "Count": "1b",
+                "tag": {
+                    "CustomModelData": row[6],
+                    "display": {"Name": {"text": row[5], "italic": False}},
+                },
+            },
+        }
+        if row[7] == "true":
+            newobject["sell"]["tag"]["AttributeModifiers"] = []
+        new_objects.append(newobject)
+
+    recipeobj = {"Recipes": new_objects}
+
+    with open("scripts/list.json", "w", encoding="utf-8") as output:
+        json.dump(recipeobj, output, ensure_ascii=False)
+
+
 with open("scripts/list.json", "r+", encoding="utf-8") as f:
     with open("scripts/extranbt.txt", "r+", encoding="utf-8") as nbtfile:
         # 处理盔甲值的字符串
@@ -66,4 +94,5 @@ with open("scripts/list.json", "r+", encoding="utf-8") as f:
         )
         command = "summon minecraft:wandering_trader ~0.5 ~-1 ~0.5 {}".format(nbtobj)
 
-        print(command)
+        with open("scripts/conmmand.txt", "w", encoding="utf-8") as output:
+            output.write(command)
