@@ -2,6 +2,6 @@
   "pack": {
     "pack_format":15,
     "supported_formats": {"min_inclusive": 15, "max_inclusive": 1000},
-    "description":"§e加入帽子和更多家具!  兼容:1.16-1.20.4   服务器修改by:Namilnm 原作者:南烛、药水棒冰 "
+    "description":"§e加入帽子和更多家具! 兼容:1.17-1.20.4   原作者:南烛、药水棒冰 修改by Namilnm"
   }
 }
