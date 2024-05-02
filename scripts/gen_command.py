@@ -94,5 +94,5 @@ with open("scripts/list.json", "r+", encoding="utf-8") as f:
         )
         command = "summon minecraft:wandering_trader ~0.5 ~-1 ~0.5 {} \n".format(nbtobj)
 
-        with open("scripts/conmmand.txt", "w", encoding="utf-8") as output:
+        with open("scripts/command.txt", "w", encoding="utf-8") as output:
             output.write(command)
