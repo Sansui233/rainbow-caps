@@ -1,5 +1,6 @@
 {
 	"values": [
-		"merchants:load"
+		"merchants:onload",
+		"blockeffects:onload"
 	]
 }

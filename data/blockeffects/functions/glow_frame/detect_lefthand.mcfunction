@@ -1,0 +1,2 @@
+# 入口：检测荧光隐形物品展示框
+execute as @a if data entity @s {Inventory:[{Slot:-106b,id:"minecraft:glow_item_frame",tag:{CustomModelData:1}}]} at @s at @e[limit=9,sort=nearest,distance=..20,type=glow_item_frame,nbt={Invisible:1b}] run function blockeffects:glow_frame/particles

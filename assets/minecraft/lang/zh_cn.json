@@ -34,7 +34,7 @@
 "chxx_glow_item_frame.zs2":"§7搭配家具使用(损坏请找家具商人换新)",
 "chxx_shihuaxiangmutaijie.zs":"§f📇 隐形台阶",
 "chxx_shihuaxiangmutaijie.zs1":"§5手持该物品§a按§a%s§a键§5可显示已放置的隐形台阶方块",
-"chxx_shihuaxiangmutaijie.zs2":"§7放置上台阶才会隐形，与台阶/活板门或者上方的方块贴着放会导致贴图丢失",
+"chxx_shihuaxiangmutaijie.zs2":"§7放置上半台阶才会隐形，与台阶/活板门或者上方的方块贴着放会导致贴图丢失",
 "chxx_guangyuanfangkuai.zs":"§f📇 隐形光源方块",
 "chxx_guangyuanfangkuai.zs1":"§7可以和隐形物品展示框同时放在一格内",
 "chxx_guangyuanfangkuai.zs2":"§a拆除光源可以直接放置方块在光源位置",

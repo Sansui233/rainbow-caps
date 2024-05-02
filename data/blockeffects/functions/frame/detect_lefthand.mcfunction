@@ -1,0 +1,2 @@
+# 入口：检测物品展示框
+execute as @a if data entity @s {Inventory:[{Slot:-106b,id:"minecraft:item_frame",tag:{CustomModelData:1}}]} at @s run execute at @e[limit=9,sort=nearest,distance=..20,type=item_frame,nbt={Invisible:1b}] run function blockeffects:frame/particles

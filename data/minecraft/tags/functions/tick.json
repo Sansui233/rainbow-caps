@@ -1,5 +1,6 @@
 {
 	"values": [
-		"merchants:main"
+		"merchants:main",
+		"blockeffects:main"
 	]
 }

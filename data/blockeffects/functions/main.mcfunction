@@ -1,0 +1,3 @@
+function blockeffects:glow_frame/detect_lefthand
+function blockeffects:frame/detect_lefthand
+function blockeffects:petrified_oak_slab/init

@@ -1,0 +1,16 @@
+particle dust 1 1 1 1 ^-0.400 ^-0.400 ^ 0 0 0 0 0 force @a
+particle dust 1 1 1 1 ^-0.400 ^0.400 ^ 0 0 0 0 0 force @a
+particle dust 1 1 1 1 ^0.400 ^0.400 ^ 0 0 0 0 0 force @a
+particle dust 1 1 1 1 ^0.400 ^-0.400 ^ 0 0 0 0 0 force @a
+particle dust 1 1 1 1 ^-0.200 ^-0.400 ^ 0 0 0 0 0 force @a
+particle dust 1 1 1 1 ^-0.400 ^0.200 ^ 0 0 0 0 0 force @a
+particle dust 1 1 1 1 ^0.200 ^0.400 ^ 0 0 0 0 0 force @a
+particle dust 1 1 1 1 ^0.400 ^-0.200 ^ 0 0 0 0 0 force @a
+particle dust 1 1 1 1 ^0.000 ^-0.400 ^ 0 0 0 0 0 normal @a
+particle dust 1 1 1 1 ^-0.400 ^0.000 ^ 0 0 0 0 0 normal @a
+particle dust 1 1 1 1 ^0.000 ^0.400 ^ 0 0 0 0 0 normal @a
+particle dust 1 1 1 1 ^0.400 ^0.000 ^ 0 0 0 0 0 normal @a
+particle dust 1 1 1 1 ^0.200 ^-0.400 ^ 0 0 0 0 0 force @a
+particle dust 1 1 1 1 ^-0.400 ^-0.200 ^ 0 0 0 0 0 force @a
+particle dust 1 1 1 1 ^-0.200 ^0.400 ^ 0 0 0 0 0 force @a
+particle dust 1 1 1 1 ^0.400 ^0.200 ^ 0 0 0 0 0 force @a
