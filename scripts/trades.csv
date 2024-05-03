@@ -1,4 +1,16 @@
 buy1_id,buy1_count,buy2_id,buy2_count,sell_id,sell_name,sell_custom_model_data,add_armor_nbt
+minecraft:carved_pumpkin,1,minecraft:feather,1,minecraft:carved_pumpkin,鸭鸭鸭舌帽-粉,30001,false
+minecraft:diamond_helmet,1,minecraft:feather,1,minecraft:carved_pumpkin,鸭鸭鸭舌帽-粉,30001,true
+minecraft:carved_pumpkin,1,minecraft:feather,1,minecraft:carved_pumpkin,鸭鸭鸭舌帽-青,30002,false
+minecraft:diamond_helmet,1,minecraft:feather,1,minecraft:carved_pumpkin,鸭鸭鸭舌帽-青,30002,true
+minecraft:carved_pumpkin,1,minecraft:bamboo,1,minecraft:carved_pumpkin,熊猫帽,30003,false
+minecraft:diamond_helmet,1,minecraft:bamboo,1,minecraft:carved_pumpkin,熊猫帽,30003,true
+minecraft:carved_pumpkin,1,minecraft:carrot,1,minecraft:carved_pumpkin,兔兔耳,30004,false
+minecraft:diamond_helmet,1,minecraft:carrot,1,minecraft:carved_pumpkin,兔兔耳,30004,true
+minecraft:carved_pumpkin,1,minecraft:carrot,1,minecraft:carved_pumpkin,兔兔耳-蓝,30005,false
+minecraft:diamond_helmet,1,minecraft:carrot,1,minecraft:carved_pumpkin,兔兔耳-蓝,30005,true
+minecraft:carved_pumpkin,1,minecraft:wheat,1,minecraft:carved_pumpkin,仓鼠耳,30006,false
+minecraft:diamond_helmet,1,minecraft:wheat,1,minecraft:carved_pumpkin,仓鼠耳,30006,true
 minecraft:carved_pumpkin,1,minecraft:cod,4,minecraft:carved_pumpkin,无敌白色六角小龙趴,101,false
 minecraft:diamond_helmet,1,minecraft:cod,4,minecraft:carved_pumpkin,无敌白色六角小龙趴,101,true
 minecraft:carved_pumpkin,1,minecraft:cod,4,minecraft:carved_pumpkin,无敌紫色六角小龙趴,102,false
@@ -77,9 +89,3 @@ minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,h
 minecraft:diamond_helmet,1,minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,hope_99,20013,true
 minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,nekkiowo,20014,false
 minecraft:diamond_helmet,1,minecraft:carved_pumpkin,1,minecraft:carved_pumpkin,nekkiowo,20014,true
-minecraft:carved_pumpkin,1,minecraft:glass,1,minecraft:carved_pumpkin,简约白色眼镜,30001,false
-minecraft:diamond_helmet,1,minecraft:glass,1,minecraft:carved_pumpkin,简约白色眼镜,30001,true
-minecraft:carved_pumpkin,1,minecraft:glass,1,minecraft:carved_pumpkin,简约铁质眼镜,30002,false
-minecraft:diamond_helmet,1,minecraft:glass,1,minecraft:carved_pumpkin,简约黑色眼镜,30002,true
-minecraft:carved_pumpkin,1,minecraft:glass,1,minecraft:carved_pumpkin,简约黑色眼镜,30003,false
-minecraft:diamond_helmet,1,minecraft:glass,1,minecraft:carved_pumpkin,简约黑色眼镜,30003,true
