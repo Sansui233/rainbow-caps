@@ -52,6 +52,11 @@
     {"predicate":{"custom_model_data":30003},"model":"item/cap-panda"},
     {"predicate":{"custom_model_data":30004},"model":"item/cap-rabbit-ear"},
     {"predicate":{"custom_model_data":30005},"model":"item/cap-rabbit-ear-blue"},
-    {"predicate":{"custom_model_data":30006},"model":"item/cap-mouse-ear"}
+    {"predicate":{"custom_model_data":30006},"model":"item/cap-rabbit-ear-fur"},
+    {"predicate":{"custom_model_data":30007},"model":"item/cap-mouse-ear"},
+    {"predicate":{"custom_model_data":30008},"model":"item/cap-dog-ear"},
+    {"predicate":{"custom_model_data":30009},"model":"item/cap-dog-ear-burlywood"},
+    {"predicate":{"custom_model_data":30021},"model":"item/cap-chef"},
+    {"predicate":{"custom_model_data":30022},"model":"item/cap-christmas2"}
 	]
 }
