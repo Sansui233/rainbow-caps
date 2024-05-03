@@ -57,6 +57,7 @@
     {"predicate":{"custom_model_data":30008},"model":"item/cap-dog-ear"},
     {"predicate":{"custom_model_data":30009},"model":"item/cap-dog-ear-burlywood"},
     {"predicate":{"custom_model_data":30021},"model":"item/cap-chef"},
-    {"predicate":{"custom_model_data":30022},"model":"item/cap-christmas2"}
+    {"predicate":{"custom_model_data":30022},"model":"item/cap-christmas2"},
+    {"predicate":{"custom_model_data":30023},"model":"item/cap-red-kerchief"}
 	]
 }

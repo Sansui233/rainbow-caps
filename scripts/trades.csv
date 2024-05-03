@@ -21,6 +21,8 @@ minecraft:carved_pumpkin,1,minecraft:cooked_porkchop,1,minecraft:carved_pumpkin,
 minecraft:diamond_helmet,1,minecraft:cooked_porkchop,1,minecraft:carved_pumpkin,金牌厨师帽,30021,true
 minecraft:carved_pumpkin,1,minecraft:apple,1,minecraft:carved_pumpkin,圣诞帽,30022,false
 minecraft:diamond_helmet,1,minecraft:apple,1,minecraft:carved_pumpkin,圣诞帽,30022,true
+minecraft:carved_pumpkin,1,minecraft:apple,1,minecraft:carved_pumpkin,圣诞小红帽,30023,false
+minecraft:diamond_helmet,1,minecraft:apple,1,minecraft:carved_pumpkin,圣诞小红帽,30023,true
 minecraft:carved_pumpkin,1,minecraft:cod,4,minecraft:carved_pumpkin,无敌白色六角小龙趴,101,false
 minecraft:diamond_helmet,1,minecraft:cod,4,minecraft:carved_pumpkin,无敌白色六角小龙趴,101,true
 minecraft:carved_pumpkin,1,minecraft:cod,4,minecraft:carved_pumpkin,无敌紫色六角小龙趴,102,false

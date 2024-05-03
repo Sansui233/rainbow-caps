@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Namilnm with Blockbench",
 	"textures": {
-		"0": "item/cap-god-ear",
-		"particle": "item/cap-god-ear"
+		"0": "item/cap-dog-ear",
+		"particle": "item/cap-dog-ear"
 	},
 	"elements": [
 		{
