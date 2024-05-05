@@ -56,8 +56,10 @@
     {"predicate":{"custom_model_data":30007},"model":"item/cap-mouse-ear"},
     {"predicate":{"custom_model_data":30008},"model":"item/cap-dog-ear"},
     {"predicate":{"custom_model_data":30009},"model":"item/cap-dog-ear-burlywood"},
-    {"predicate":{"custom_model_data":30021},"model":"item/cap-chef"},
     {"predicate":{"custom_model_data":30022},"model":"item/cap-christmas2"},
-    {"predicate":{"custom_model_data":30023},"model":"item/cap-red-kerchief"}
+    {"predicate":{"custom_model_data":30023},"model":"item/cap-red-kerchief"},
+    {"predicate":{"custom_model_data":30024},"model":"item/cap-red-round-hat"},
+    {"predicate":{"custom_model_data":30025},"model":"item/cap-cool-black-hat"},
+    {"predicate":{"custom_model_data":30026},"model":"item/cap-cool-brown-hat"}
 	]
 }
